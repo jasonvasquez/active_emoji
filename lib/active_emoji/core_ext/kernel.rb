@@ -5,6 +5,7 @@ module Kernel
   alias 📠 print
   alias 📤 puts
   alias 🎰 rand
+  alias 👻 singleton_class
   alias 💤 sleep
   alias 💻 system
   alias ⚠️ warn
